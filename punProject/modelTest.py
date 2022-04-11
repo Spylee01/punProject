@@ -38,7 +38,7 @@ model = tensorflow.keras.models.load_model("C:/Users/Epicr/OneDrive/Desktop/codi
 
 import discord
 
-TOKEN = 'ODU3NzA0MDEzMzc3MzA2Njc0.YNTdHA.-x8q0Uu2fMepOGgV-o9IP0vOGAw'
+TOKEN = #TOKEN
 
 client = discord.Client()
 
